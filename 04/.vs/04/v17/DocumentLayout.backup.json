@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NeocoM\\source\\repos\\04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C6AB9B2-F673-48AE-8A73-7E0381377F26}|4-14\\4-14.vcxproj|C:\\Users\\NeocoM\\source\\repos\\04\\4-14\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0C6AB9B2-F673-48AE-8A73-7E0381377F26}|4-14\\4-14.vcxproj|solutionrelative:4-14\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 255,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\NeocoM\\source\\repos\\04\\4-14\\main.cpp",
+              "RelativeDocumentMoniker": "4-14\\main.cpp",
+              "ToolTip": "C:\\Users\\NeocoM\\source\\repos\\04\\4-14\\main.cpp",
+              "RelativeToolTip": "4-14\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-07T08:36:27.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

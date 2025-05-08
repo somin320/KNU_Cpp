@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\NeocoM\\source\\repos\\07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED2C48DA-5B8B-4EF0-9D7C-6899F98F6B9D}|7-11\\7-11.vcxproj|C:\\Users\\NeocoM\\source\\repos\\07\\7-11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ED2C48DA-5B8B-4EF0-9D7C-6899F98F6B9D}|7-11\\7-11.vcxproj|solutionrelative:7-11\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C56750E2-7DAA-4E7D-BD49-730E47D9CA6C}|7-9\\7-9.vcxproj|C:\\Users\\NeocoM\\source\\repos\\07\\7-9\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C56750E2-7DAA-4E7D-BD49-730E47D9CA6C}|7-9\\7-9.vcxproj|solutionrelative:7-9\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3D42A91-C482-41C2-99C9-9C2E4BEB63D7}|7-7-1\\7-7-1.vcxproj|C:\\Users\\NeocoM\\source\\repos\\07\\7-7-1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C3D42A91-C482-41C2-99C9-9C2E4BEB63D7}|7-7-1\\7-7-1.vcxproj|solutionrelative:7-7-1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C1A4EF-B9CB-44E6-B4B6-5C556A5AF3AB}|7-7-2\\7-7-2.vcxproj|C:\\Users\\NeocoM\\source\\repos\\07\\7-7-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88C1A4EF-B9CB-44E6-B4B6-5C556A5AF3AB}|7-7-2\\7-7-2.vcxproj|solutionrelative:7-7-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14F20793-05F2-4072-92E3-82E1D1860E76}|7-5-1\\7-5-1.vcxproj|C:\\Users\\NeocoM\\source\\repos\\07\\7-5-1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{14F20793-05F2-4072-92E3-82E1D1860E76}|7-5-1\\7-5-1.vcxproj|solutionrelative:7-5-1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F3DFE1-6E74-4356-8C7A-45F04C0BC9D5}|7-5-2\\7-5-2.vcxproj|C:\\Users\\NeocoM\\source\\repos\\07\\7-5-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07F3DFE1-6E74-4356-8C7A-45F04C0BC9D5}|7-5-2\\7-5-2.vcxproj|solutionrelative:7-5-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F44FBEC-EC85-4C70-9DD5-CBC8D18DC367}|7-1-2\\7-1-2.vcxproj|C:\\Users\\NeocoM\\source\\repos\\07\\7-1-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3F44FBEC-EC85-4C70-9DD5-CBC8D18DC367}|7-1-2\\7-1-2.vcxproj|solutionrelative:7-1-2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C429CDBC-FC93-460C-9C04-0BAFB2728246}|..\\7-1\\7-1.vcxproj|C:\\Users\\NeocoM\\source\\repos\\7-1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6B03D02-7BBC-432B-8796-815AED18D1BE}|7-3\\7-3.vcxproj|C:\\Users\\NeocoM\\source\\repos\\07\\7-3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6B03D02-7BBC-432B-8796-815AED18D1BE}|7-3\\7-3.vcxproj|solutionrelative:7-3\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\NeocoM\\source\\repos\\07\\7-11\\main.cpp",
+              "RelativeDocumentMoniker": "7-11\\main.cpp",
+              "ToolTip": "C:\\Users\\NeocoM\\source\\repos\\07\\7-11\\main.cpp",
+              "RelativeToolTip": "7-11\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T14:44:27.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\NeocoM\\source\\repos\\07\\7-9\\main.cpp",
+              "RelativeDocumentMoniker": "7-9\\main.cpp",
+              "ToolTip": "C:\\Users\\NeocoM\\source\\repos\\07\\7-9\\main.cpp",
+              "RelativeToolTip": "7-9\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T14:35:06.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\NeocoM\\source\\repos\\07\\7-7-2\\main.cpp",
+              "RelativeDocumentMoniker": "7-7-2\\main.cpp",
+              "ToolTip": "C:\\Users\\NeocoM\\source\\repos\\07\\7-7-2\\main.cpp",
+              "RelativeToolTip": "7-7-2\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T14:31:03.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\NeocoM\\source\\repos\\07\\7-7-1\\main.cpp",
+              "RelativeDocumentMoniker": "7-7-1\\main.cpp",
+              "ToolTip": "C:\\Users\\NeocoM\\source\\repos\\07\\7-7-1\\main.cpp",
+              "RelativeToolTip": "7-7-1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T14:17:25.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\NeocoM\\source\\repos\\07\\7-5-2\\main.cpp",
+              "RelativeDocumentMoniker": "7-5-2\\main.cpp",
+              "ToolTip": "C:\\Users\\NeocoM\\source\\repos\\07\\7-5-2\\main.cpp",
+              "RelativeToolTip": "7-5-2\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T14:16:40.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\NeocoM\\source\\repos\\07\\7-5-1\\main.cpp",
+              "RelativeDocumentMoniker": "7-5-1\\main.cpp",
+              "ToolTip": "C:\\Users\\NeocoM\\source\\repos\\07\\7-5-1\\main.cpp",
+              "RelativeToolTip": "7-5-1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T13:56:13.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\NeocoM\\source\\repos\\07\\7-3\\main.cpp",
+              "RelativeDocumentMoniker": "7-3\\main.cpp",
+              "ToolTip": "C:\\Users\\NeocoM\\source\\repos\\07\\7-3\\main.cpp",
+              "RelativeToolTip": "7-3\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T13:31:17.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\NeocoM\\source\\repos\\07\\7-1-2\\main.cpp",
+              "RelativeDocumentMoniker": "7-1-2\\main.cpp",
+              "ToolTip": "C:\\Users\\NeocoM\\source\\repos\\07\\7-1-2\\main.cpp",
+              "RelativeToolTip": "7-1-2\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T13:22:55.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\NeocoM\\source\\repos\\7-1\\main.cpp",
+              "RelativeDocumentMoniker": "..\\7-1\\main.cpp",
+              "ToolTip": "C:\\Users\\NeocoM\\source\\repos\\7-1\\main.cpp",
+              "RelativeToolTip": "..\\7-1\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-07T12:24:32.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
